@@ -16,7 +16,7 @@ publication_short = "In *EUSIPCO*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we propose a novel methodology for Change Detection between two monovariate complex SAR images. Linear Time-Frequency tools are used in order to recover a spectral and angular diversity of the scatterers present in the scene. This diversity is used in bi-date change detection framework to develop a detector, whose performances are better than the classic detector on monovariate SAR images."
-abstract_short = "A novel methodology for bi-date Change Detection in High-resolution SAR Imaeges."
+abstract_short = "A novel methodology for bi-date Change Detection in High-resolution SAR Images."
 
 # Is this a selected publication? (true/false)
 selected = true
