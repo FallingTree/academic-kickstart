@@ -17,6 +17,11 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Phd candidate"
+  institution = "CentraleSupélec"
+  year = 2017
+  
+[[education.courses]]
   course = "Master's degree in Signal Processing"
   institution = "Grenoble INP - Phelma"
   year = 2016
@@ -25,6 +30,7 @@ weight = 5
   course = "Bachelor Degree"
   institution = "Grenoble INP - Phelma"
   year = 2014
+  
  
 +++
 
