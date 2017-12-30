@@ -15,6 +15,10 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am currently teaching at the Institut Universitaire de Technologie (IUT) of Orsay.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+List of the courses:
+* Projet NAO: Managing students for a robotic project on NAO robots. Febuary 2017 - April 2017. `23 hours`
+* Java: Introductory courses. Mars 2017 - June 2017. `25 hours`
+* Architecture des ordinateurs: Introductory courses to micro-processors and assembly language. `20 hours`
+* C++: Introductory courses to programming. Septembre 2017 - Novembre 2017. `55 hours`
