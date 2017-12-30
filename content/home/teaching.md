@@ -11,13 +11,17 @@ title = "Custom Section"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 60
 
 +++
 
 I am teaching in the Institut Universitaire de Technologie (IUT) of Orsay in the Computer Science department.
 List of courses in which I interveined:
+
 'Projet NAO:' 23 hours in 2017. Monitoring Students in developing an application for NAO robots.
-'Java:' 25 hours in 2017. Introduction to Java programmation course .
+
+'Java:' 25 hours in 2017. Introduction to Java programmation course.
+
 'Architecture des ordinateurs:' 16 hours in 2017. Introduction to microprocessors architecture and Assembly language for Intel 8086 microprocessors.
+
 'C++:' 55 hours in 2017. Introduction to programming with C++ language.
