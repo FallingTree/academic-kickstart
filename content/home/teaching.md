@@ -18,6 +18,7 @@ weight = 60
 I am currently teaching at the Institut Universitaire de Technologie (IUT) of Orsay.
 
 List of the courses:
+
 * Projet NAO: Managing students for a robotic project on NAO robots. Febuary 2017 - April 2017. `23 hours`
 * Java: Introductory courses. Mars 2017 - June 2017. `25 hours`
 * Architecture des ordinateurs: Introductory courses to micro-processors and assembly language. `20 hours`
