@@ -218,6 +218,11 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:ammar.mian@centralespelec.fr"
+    
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Ammar_Mian"
 
 #  [[params.social]]
 #    icon = "twitter"
