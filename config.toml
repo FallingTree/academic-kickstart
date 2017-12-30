@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
   avatar = "24173788_543802019304878_5660669227911845411_o.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ammar.mian@centralesupelec.fr"
   address = "Laboratoire SONDRA 3 Rue Joliot Curie F-91192 Gif sur Yvette, France"
-  office_hours = "Monday to Friday 10:00 to 18:00 or email for appointment"
+  office_hours = ""
   phone = "(+33) 1 69 85 18 14"
   skype = ""
   telegram = ""
@@ -94,9 +94,9 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "48.70803"
-  longitude = "2.16367"
-  zoom = 15
+  latitude = "48.70845"
+  longitude = "2.16348"
+  zoom = 1
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
