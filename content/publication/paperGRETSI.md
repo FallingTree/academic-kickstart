@@ -11,8 +11,8 @@ authors = ["Ammar Mian", "Jean-Philippe Ovarlez", "Guillaume Ginolhac", "Abdoura
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *25th European Signal Processing Conference*"
-publication_short = "In *EUSIPCO*"
+publication = "In *XXVIème colloque GRETSI*"
+publication_short = "In *GRETSI*"
 
 # Abstract and optional shortened version.
 abstract = "Nous proposons, dans ce papier, une nouvelle méthodologie pour la Détection de Changement entre deux images SAR monovarié. Des outils d'analyse Temps-Fréquence Linéaire sont utilisés pour obtenir une diversité spectrale et angulaire. Cette diversité est utilisée dans uneprobì eme de détection sur vecteurs multivariés et le détecteur obtenu affiche de meilleurs performances que le détecteur classique en SAR monovarié."
