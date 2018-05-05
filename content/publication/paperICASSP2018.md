@@ -2,7 +2,7 @@
 title = "A Robust Change Detector for Highly Heterogeneous Multivariate Images"
 
 # Date first published.
-date = "2018"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ammar Mian", "Jean-Philippe Ovarlez", "Guillaume Ginolhac", "Abdourahmane M. Atto"]
