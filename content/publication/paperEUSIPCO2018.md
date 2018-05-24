@@ -16,21 +16,15 @@ publication_short = "In *EUSIPCO*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we study the problem of detecting and estimating change-points in a time series of multivariate images. We extend existent works to take into account the heterogeneity of the dataset on a spatial neighborhood. The classic complex Gaussian assumption of the data is replaced by a complex elliptically symmetric assumption. Then robust statistics are derived using Generalized Likelihood Ratio Test (GLRT). These statistics are coupled to an estimation strategy for one or several changes. Performance of these robust statistics have been analyzed in simulation and compared to the one associated with standard multivariate normal assumption. When the data is heterogeneous, the detection and estimation strategy yields better results with the new statistics." 
+
 abstract_short = "An algorithm for robust change detection on multivariate images."
 
 # Is this a selected publication? (true/false)
 selected = true
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/profile/Jean-Philippe_Ovarlez/publication/325248465_Robust_Detection_and_Estimation_of_Change-Points_in_a_Time_Series_of_Multivariate_Images/links/5affe45eaca2720ba0961228/Robust-Detection-and-Estimation-of-Change-Points-in-a-Time-Series-of-Multivariate-Images.pdf?_sg%5B0%5D=_aUXEvX_-SzyLXmo-avMJ6p3JPXTWR5xg9N1WotysSDBdtm6nyw-oAigiPpZUSW5P9XEjINEWEDFxgNvsTBt-Q.3rOGNbGVW3Of_yHIvrH5ucZ8Dz9ejcJxrLFsxfF6RDZVy0FDDOCPbNWVINb27XmRHmUaY7xwR_NkSNVfggvCFA&_sg%5B1%5D=nEW-_CUoRC_OwQ6p8xqfRSIddXR4KOrQ0rwHukEtR4GCN0spFresE_E21JnDx_wjv65MoNNsWsM9tKWKH0hSvhzcR2fzKY34WKNEFVVX5HEg.3rOGNbGVW3Of_yHIvrH5ucZ8Dz9ejcJxrLFsxfF6RDZVy0FDDOCPbNWVINb27XmRHmUaY7xwR_NkSNVfggvCFA&_iepl="
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+url_pdf = "https://www.researchgate.net/publication/325248465_Robust_Detection_and_Estimation_of_Change-Points_in_a_Time_Series_of_Multivariate_Images"
+
 
 
 
